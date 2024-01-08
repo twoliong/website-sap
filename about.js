@@ -1,3 +1,3 @@
-// Halaman Home
+// Halaman About
 
 // Tambah Fitur
